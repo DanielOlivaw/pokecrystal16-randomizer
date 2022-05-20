@@ -1,0 +1,4 @@
+﻿  RandomizerTest.cpp
+C:\Users\Daniel\Source\Repos\RandomizerTest\RandomizerTest\RandomizerTest.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Daniel\Source\Repos\RandomizerTest\RandomizerTest\RandomizerTest.cpp(171,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RandomizerTest.vcxproj -> C:\Users\Daniel\Source\Repos\RandomizerTest\x64\Debug\RandomizerTest.exe
