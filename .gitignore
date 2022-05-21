@@ -30,6 +30,3 @@
 *.exe
 *.out
 *.app
-
-# Directories
-RandomizerTest/randomized/*.asm
